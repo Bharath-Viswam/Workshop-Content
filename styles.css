@@ -1,0 +1,17 @@
+#timer444 {
+  font-size: 2em;
+  color: white;
+  background-color: black;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+#minutes,
+#seconds {
+  background-color: #333;
+  padding: 10px;
+  border-radius: 5px;
+}
+.points {
+  color: white;
+}
