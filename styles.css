@@ -41,8 +41,10 @@ div#pp-accordion-tab-title-9647 {
   color: white !important;
 }
 .elementor-button:hover {
+  background-image: none !important;
   background-color: #136f6e !important;
 }
 .elementor-button:focus {
+  background-image: none !important;
   background-color: #136f6e !important;
 }
