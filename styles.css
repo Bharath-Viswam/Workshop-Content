@@ -48,3 +48,7 @@ div#pp-accordion-tab-title-9647 {
   background-image: none !important;
   background-color: #136f6e !important;
 }
+.elementor-container {
+  display: flex;
+  justify-content: center;
+}
