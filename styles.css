@@ -17,7 +17,7 @@
   color: white;
 }
 .fire {
-  background-color: #dc407f !important;
+  background-color: #023d69 !important;
 }
 div#pp-accordion-tab-title-9641 {
   color: white !important;
@@ -42,11 +42,11 @@ div#pp-accordion-tab-title-9647 {
 }
 .elementor-button:hover {
   background-image: none !important;
-  background-color: #dc407f !important;
+  background-color: #023d69 !important;
 }
 .elementor-button:focus {
   background-image: none !important;
-  background-color: #dc407f !important;
+  background-color: #023d69 !important;
 }
 .elementor-container {
   display: flex;
@@ -85,12 +85,12 @@ div#pp-accordion-tab-title-9647 {
 .elementor-1314
   .elementor-element.elementor-element-d1ccfb6
   .elementor-widget-wrap.elementor-element-populated {
-  background-color: #dc407f !important;
+  background-color: #023d69 !important;
 }
 .elementor-1314
   .elementor-element.elementor-element-5dee9e6
   .elementor-heading-title {
-  color: black;
+  color: white;
 }
 .elementor-1314
   .elementor-element.elementor-element-a5b88df
@@ -101,32 +101,32 @@ div#pp-accordion-tab-title-9647 {
 .elementor-1314
   .elementor-element.elementor-element-cb03cfd
   .elementor-widget-wrap.elementor-element-populated {
-  background-color: #dc407f !important;
+  background-color: #023d69 !important;
 }
 .elementor-1314
   .elementor-element.elementor-element-cb03cfd
   .elementor-heading-title {
-  color: black;
+  color: white;
 }
 .elementor-1314
   .elementor-element.elementor-element-a56515c
   .elementor-widget-wrap.elementor-element-populated {
-  background-color: #dc407f !important;
+  background-color: #023d69 !important;
 }
 .elementor-1314
   .elementor-element.elementor-element-a56515c
   .elementor-heading-title {
-  color: black;
+  color: white;
 }
 .elementor-1314
   .elementor-element.elementor-element-74ec577
   .elementor-widget-wrap.elementor-element-populated {
-  background-color: #dc407f !important;
+  background-color: #023d69 !important;
 }
 .elementor-1314
   .elementor-element.elementor-element-74ec577
   .elementor-heading-title {
-  color: black;
+  color: white;
 }
 .elementor-1314 .elementor-element.elementor-element-aaaa30f p {
   color: white;
@@ -143,4 +143,15 @@ div#pp-accordion-tab-title-9647 {
 .elementor-1314 .elementor-element.elementor-element-cb03cfd p {
   color: white;
   font-weight: 500;
+}
+.psy{
+  color:white;
+  width:100%;
+   padding:20px;
+   text-align:justify;
+   margin:0 auto;
+   line-height:1.6;
+   font-size:1em;
+   font-family:'Arial',sans-serif;
+
 }
