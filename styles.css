@@ -144,44 +144,14 @@ div#pp-accordion-tab-title-9647 {
   color: white;
   font-weight: 500;
 }
-
-.psy {
-  width: 100%;
+.psy{
   color:white;
-  margin: 0 auto;
-  text-align: justify; 
-  padding: 20px;
-  line-height: 1.6;
-  font-size: 1.3vw; /* Use viewport width for responsive font size */
-  font-family: 'Arial', sans-serif;
-  hyphens: auto; /* Allow hyphenation */
-  word-spacing: 0.1em; /* Adjust word spacing */
+  width:100%;
+   padding:20px;
+   text-align:justify;
+   margin:0 auto;
+   line-height:1.6;
+   font-size:1em;
+   font-family:'Arial',sans-serif;
+
 }
-
-/* Media query for smaller screens */
-@media only screen and (max-width: 600px) {
-  .psy {
-     color:white;
-      text-align: left; /* Change text alignment for smaller screens */
-      font-size: 3.5vw; /* Adjust font size for smaller screens */
-  }
-}
-
-@media only screen and (min-width:601px) and (max-width:1024px){
-  .psy{
-    color:white;
-    font-size:2.5vw;
-
-  }
-}
-
-@media only screen and (min-width: 1025px) {
-  .psy {
-      color:white;
-      font-size: 1.5vw; /* Adjust font size for larger screens */
-  }
-}
-
-
-
-
